@@ -1,0 +1,2 @@
+Highest validation accuracy: 0.959
+Final test accuracy: 0.8751

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ffa3f59-edb2-47fb-aea0-42973dc82adf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CSE546" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/hw1/ridgeRegression/python-mnist" />
+  </component>
+  <component name="JupyterTrust" id="a0bb7206-3d92-4b7e-807a-41ed2266d1b2" />
+  <component name="ProjectId" id="1alu9Dq2CDnJokNeLAFgkyxEA0D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.imageClassify">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="CSE546" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="imageClassify" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CSE546" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw1/ridgeRegression" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw1/ridgeRegression/imageClassify.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="imageClassify2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CSE546" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw1/ridgeRegression" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw1/ridgeRegression/imageClassify2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.imageClassify" />
+        <item itemvalue="Python.imageClassify2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ffa3f59-edb2-47fb-aea0-42973dc82adf" name="Default Changelist" comment="" />
+      <created>1587322347270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587322347270</updated>
+      <workItem from="1587322356664" duration="1610000" />
+      <workItem from="1587398169970" duration="1390000" />
+      <workItem from="1587502359352" duration="9995000" />
+      <workItem from="1587581488609" duration="1620000" />
+      <workItem from="1587655873926" duration="26000" />
+      <workItem from="1587681304398" duration="422000" />
+      <workItem from="1587748876064" duration="13043000" />
+      <workItem from="1587849213669" duration="24957000" />
+      <workItem from="1587926837704" duration="6661000" />
+      <workItem from="1588012840162" duration="1653000" />
+      <workItem from="1588098829166" duration="204000" />
+      <workItem from="1588191739426" duration="432000" />
+      <workItem from="1588278755011" duration="251000" />
+      <workItem from="1588346550312" duration="387000" />
+      <workItem from="1588373465090" duration="337000" />
+      <workItem from="1588416916448" duration="598000" />
+      <workItem from="1588453910529" duration="180000" />
+      <workItem from="1588492873935" duration="38000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2234" height="318" key="GridCell.Tab.0.bottom" timestamp="1587982183836">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="3398" height="318" key="GridCell.Tab.0.bottom/3440.0.1080.1920/4520.0.1080.1920/0.0.3440.1440@0.0.3440.1440" timestamp="1587956490041" />
+    <state width="2234" height="318" key="GridCell.Tab.0.bottom/3440.23.1080.1897/4520.23.1080.1897/0.23.3440.1417@0.23.3440.1417" timestamp="1587982183836" />
+    <state width="2234" height="318" key="GridCell.Tab.0.center" timestamp="1587982183678">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="3398" height="318" key="GridCell.Tab.0.center/3440.0.1080.1920/4520.0.1080.1920/0.0.3440.1440@0.0.3440.1440" timestamp="1587956490039" />
+    <state width="2234" height="318" key="GridCell.Tab.0.center/3440.23.1080.1897/4520.23.1080.1897/0.23.3440.1417@0.23.3440.1417" timestamp="1587982183678" />
+    <state width="2234" height="318" key="GridCell.Tab.0.left" timestamp="1587982183675">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="3398" height="318" key="GridCell.Tab.0.left/3440.0.1080.1920/4520.0.1080.1920/0.0.3440.1440@0.0.3440.1440" timestamp="1587956490038" />
+    <state width="2234" height="318" key="GridCell.Tab.0.left/3440.23.1080.1897/4520.23.1080.1897/0.23.3440.1417@0.23.3440.1417" timestamp="1587982183675" />
+    <state width="2234" height="318" key="GridCell.Tab.0.right" timestamp="1587982183834">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="3398" height="318" key="GridCell.Tab.0.right/3440.0.1080.1920/4520.0.1080.1920/0.0.3440.1440@0.0.3440.1440" timestamp="1587956490040" />
+    <state width="2234" height="318" key="GridCell.Tab.0.right/3440.23.1080.1897/4520.23.1080.1897/0.23.3440.1417@0.23.3440.1417" timestamp="1587982183834" />
+    <state x="1399" y="584" key="com.intellij.ide.util.TipDialog" timestamp="1588014608398">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state x="1399" y="584" key="com.intellij.ide.util.TipDialog/3440.0.1080.1920/4520.0.1080.1920/0.0.3440.1440@0.0.3440.1440" timestamp="1587681306425" />
+    <state x="1399" y="552" key="com.intellij.ide.util.TipDialog/3440.23.1080.1897/4520.23.1080.1897/0.23.3440.1337@0.23.3440.1337" timestamp="1587406935391" />
+    <state x="1399" y="584" key="com.intellij.ide.util.TipDialog/3440.23.1080.1897/4520.23.1080.1897/0.23.3440.1417@0.23.3440.1417" timestamp="1588014608398" />
+    <state x="346" y="191" width="1137" height="961" key="dock-window-1" timestamp="1587873186642">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state x="346" y="191" width="1137" height="961" key="dock-window-1/3440.23.1080.1897/4520.23.1080.1897/0.23.3440.1417@0.23.3440.1417" timestamp="1587873186642" />
+    <state x="380" y="23" width="1137" height="961" key="dock-window-2" timestamp="1587873186643">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state x="380" y="23" width="1137" height="961" key="dock-window-2/3440.23.1080.1897/4520.23.1080.1897/0.23.3440.1417@0.23.3440.1417" timestamp="1587873186643" />
+    <state x="394" y="23" width="1137" height="961" key="dock-window-3" timestamp="1587873186645">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state x="394" y="23" width="1137" height="961" key="dock-window-3/3440.23.1080.1897/4520.23.1080.1897/0.23.3440.1417@0.23.3440.1417" timestamp="1587873186645" />
+    <state x="2531" y="348" width="670" height="676" key="search.everywhere.popup" timestamp="1587551961162">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state x="2531" y="348" width="670" height="676" key="search.everywhere.popup/3440.23.1080.1897/4520.23.1080.1897/0.23.3440.1417@0.23.3440.1417" timestamp="1587551961162" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hw1/ridgeRegression/imageClassify.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CSE546$imageClassify2.coverage" NAME="imageClassify2 Coverage Results" MODIFIED="1587893218761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw1/ridgeRegression" />
+    <SUITE FILE_PATH="coverage/CSE546$imageClassify.coverage" NAME="imageClassify Coverage Results" MODIFIED="1587956490029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw1/ridgeRegression" />
+  </component>
+</project>
